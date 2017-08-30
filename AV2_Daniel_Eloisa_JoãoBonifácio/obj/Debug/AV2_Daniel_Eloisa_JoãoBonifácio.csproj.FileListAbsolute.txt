@@ -1,0 +1,9 @@
+c:\users\daniel.henrique\documents\visual studio 2015\Projects\AV2_Daniel_Eloisa_JoãoBonifácio\AV2_Daniel_Eloisa_JoãoBonifácio\bin\Debug\AV2_Daniel_Eloisa_JoãoBonifácio.exe.config
+c:\users\daniel.henrique\documents\visual studio 2015\Projects\AV2_Daniel_Eloisa_JoãoBonifácio\AV2_Daniel_Eloisa_JoãoBonifácio\bin\Debug\AV2_Daniel_Eloisa_JoãoBonifácio.exe
+c:\users\daniel.henrique\documents\visual studio 2015\Projects\AV2_Daniel_Eloisa_JoãoBonifácio\AV2_Daniel_Eloisa_JoãoBonifácio\bin\Debug\AV2_Daniel_Eloisa_JoãoBonifácio.pdb
+c:\users\daniel.henrique\documents\visual studio 2015\Projects\AV2_Daniel_Eloisa_JoãoBonifácio\AV2_Daniel_Eloisa_JoãoBonifácio\obj\Debug\AV2_Daniel_Eloisa_JoãoBonifácio.csprojResolveAssemblyReference.cache
+c:\users\daniel.henrique\documents\visual studio 2015\Projects\AV2_Daniel_Eloisa_JoãoBonifácio\AV2_Daniel_Eloisa_JoãoBonifácio\obj\Debug\AV2_Daniel_Eloisa_JoãoBonifácio.Form1.resources
+c:\users\daniel.henrique\documents\visual studio 2015\Projects\AV2_Daniel_Eloisa_JoãoBonifácio\AV2_Daniel_Eloisa_JoãoBonifácio\obj\Debug\AV2_Daniel_Eloisa_JoãoBonifácio.Properties.Resources.resources
+c:\users\daniel.henrique\documents\visual studio 2015\Projects\AV2_Daniel_Eloisa_JoãoBonifácio\AV2_Daniel_Eloisa_JoãoBonifácio\obj\Debug\AV2_Daniel_Eloisa_JoãoBonifácio.csproj.GenerateResource.Cache
+c:\users\daniel.henrique\documents\visual studio 2015\Projects\AV2_Daniel_Eloisa_JoãoBonifácio\AV2_Daniel_Eloisa_JoãoBonifácio\obj\Debug\AV2_Daniel_Eloisa_JoãoBonifácio.exe
+c:\users\daniel.henrique\documents\visual studio 2015\Projects\AV2_Daniel_Eloisa_JoãoBonifácio\AV2_Daniel_Eloisa_JoãoBonifácio\obj\Debug\AV2_Daniel_Eloisa_JoãoBonifácio.pdb
